@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://groups-directory.github.io/io/sitemap.xml
