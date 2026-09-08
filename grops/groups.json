@@ -1,28 +1,29 @@
 [
     {
-        "name": "مجتمع البرمجة العربية",
+        "name": "Falcon Groups",
         "description": "مجتمع عربي للمبرمجين ومطوري الويب والتطبيقات وتبادل الخبرات والمصادر.",
-        "image": "grops/programming/image.jpg",
+        "image": "grops/falcon.jpg.jpg",
         "categories": [
             "برمجة",
             "تقنية",
             "تعلم"
         ],
         "platform": "telegram",
-        "link": "https://t.me/example",
+        "link": "https://t.me/worm_gptv",
         "date": "2026-09-09"
     },
 
     {
-        "name": "جروب الدردشة العربية",
-        "description": "مساحة للدردشة والتعارف والنقاشات العامة بين أعضاء المجتمع.",
-        "image": "grops/chat/image.jpg",
+        "name": "تعلم الأمن السيبراني",
+        "description": "مجتمع خاص بتعلم البرمجة والأمن السيبراني تحت إدارة محترف ألامن سيبراني Dark. ",
+        "image": "grops/dark.jpg",
         "categories": [
-            "دردشة",
-            "ترفيه"
+            "برمجة",
+            "تقنية",
+            "تعلم"
         ],
-        "platform": "whatsapp",
-        "link": "https://chat.whatsapp.com/example",
+        "platform": "telegram",
+        "link": "https://t.me/lego202x",
         "date": "2026-09-09"
     }
 ]
