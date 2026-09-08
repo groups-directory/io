@@ -1,0 +1,28 @@
+[
+    {
+        "name": "مجتمع البرمجة العربية",
+        "description": "مجتمع عربي للمبرمجين ومطوري الويب والتطبيقات وتبادل الخبرات والمصادر.",
+        "image": "grops/programming/image.jpg",
+        "categories": [
+            "برمجة",
+            "تقنية",
+            "تعلم"
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/example",
+        "date": "2026-09-09"
+    },
+
+    {
+        "name": "جروب الدردشة العربية",
+        "description": "مساحة للدردشة والتعارف والنقاشات العامة بين أعضاء المجتمع.",
+        "image": "grops/chat/image.jpg",
+        "categories": [
+            "دردشة",
+            "ترفيه"
+        ],
+        "platform": "whatsapp",
+        "link": "https://chat.whatsapp.com/example",
+        "date": "2026-09-09"
+    }
+]
