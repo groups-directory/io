@@ -13,6 +13,35 @@
         "date": "2026-09-09"
     },
 
+
+    
+    {
+        "name": "بروكسيات الهرم الرابع",
+        "description": "قناة لتنزيل ملفات proxy القناة تحتوي علي كثير من الملفات المفيدة. ",
+        "image": "grops/pro.jpg",
+        "categories": [
+            "برمجة",
+            "تقنية"
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/Pyramid_Proxy",
+        "date": "2026-09-10"
+    },
+
+    
+    {
+        "name": "شروحات الهرم الرابع",
+        "description": "قناة مشاركة الخبره البرمجيه والأدوات المهمة.",
+        "image": "grops/pro2.jpg",
+        "categories": [
+            "برمجة",
+            "تعلم"
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/dmxnclp",
+        "date": "2026-09-10"
+    },
+
     {
         "name": "تعلم الأمن السيبراني",
         "description": "مجتمع خاص بتعلم البرمجة والأمن السيبراني تحت إدارة محترف ألامن سيبراني Dark. ",
