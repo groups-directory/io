@@ -13,6 +13,21 @@
         "date": "2026-09-09"
     },
 
+    
+    {
+        "name": "PYTHON&CODING",
+        "description": "Codes for Python bots Note: This channel is for programmers only. If you are not a programmer, do not bother us 😶",
+        "image": "grops/pro3.jpg",
+        "categories": [
+            "برمجة",
+            "تقنية",
+            "تعلم"
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/coding35",
+        "date": "2026-09-10"
+    },
+
 
     
     {
