@@ -2,7 +2,7 @@
     {
         "name": "Falcon Groups",
         "description": "مجتمع عربي للمبرمجين ومطوري الويب والتطبيقات وتبادل الخبرات والمصادر.",
-        "image": "grops/falcon.jpg",
+        "image": "grops/img/falcon.jpg",
         "categories": [
             "برمجة",
             "تقنية",
@@ -17,7 +17,7 @@
     {
         "name": "PYTHON&CODING",
         "description": "Codes for Python bots Note: This channel is for programmers only. If you are not a programmer, do not bother us 😶",
-        "image": "grops/pro3.jpg",
+        "image": "grops/img/pro3.jpg",
         "categories": [
             "برمجة",
             "تقنية",
@@ -32,7 +32,7 @@
     {
         "name": "Anime Though I am an Inept Villainess",
         "description": "قناة مهتمه بالعمل الصاعد  Though I am an Inept Villainess- انمي انا شريرة غير كفوة لكن 📰📸",
-        "image": "grops/animy.jpg",
+        "image": "grops/img/animy.jpg",
         "categories": [
             "ترفيه"
         ],
@@ -42,9 +42,22 @@
     },
     
     {
+        "name": "الهكر القياده توفيق",
+        "description": "قناة توفيق الرسمية | نسخ واتساب، حظر وفك حظر، أرقام وهمية، ثغرات وتطبيقات متنوعة، زخرفة وتفعيل.",
+        "image": "grops/img/pro4.jpg",
+        "categories": [
+            "برمجة",
+            "تقنية", 
+            "تعلم" 
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/tofik_hak0823480",
+        "date": "2026-09-10"
+    },
+    {
         "name": "بروكسيات الهرم الرابع",
         "description": "قناة لتنزيل ملفات proxy القناة تحتوي علي كثير من الملفات المفيدة. ",
-        "image": "grops/pro.jpg",
+        "image": "grops/img/pro.jpg",
         "categories": [
             "برمجة",
             "تقنية"
@@ -58,7 +71,7 @@
     {
         "name": "شروحات الهرم الرابع",
         "description": "قناة مشاركة الخبره البرمجيه والأدوات المهمة.",
-        "image": "grops/pro2.jpg",
+        "image": "grops/img/pro2.jpg",
         "categories": [
             "برمجة",
             "تعلم"
@@ -71,7 +84,7 @@
     {
         "name": "تعلم الأمن السيبراني",
         "description": "مجتمع خاص بتعلم البرمجة والأمن السيبراني تحت إدارة محترف ألامن سيبراني Dark. ",
-        "image": "grops/dark.jpg",
+        "image": "grops/img/dark.jpg",
         "categories": [
             "برمجة",
             "تقنية",
