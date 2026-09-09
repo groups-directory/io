@@ -93,5 +93,18 @@
         "platform": "telegram",
         "link": "https://t.me/lego202x",
         "date": "2026-09-09"
-    }
+    },
+    
+    {
+        "name": "𝑹𝒊𝒈𝒉𝒕𝒆𝒙-𝒑𝒚𝒕𝒉𝒐𝒏 ?",
+        "description": "القناه متخصصه بكل شيء مفيد بل بايثون",
+        "image": "",
+        "categories": [
+            "برمجة",
+            " تقنية"
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/python_rightex",
+        "date": "2026-09-10"
+    },
 ]
