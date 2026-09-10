@@ -26,6 +26,20 @@
         "link": "https://t.me/lego2028",
         "date": "2026-09-10"
     },
+
+    {
+        "name": "تعلم الأمن السيبراني",
+        "description": "مجتمع خاص بتعلم البرمجة والأمن السيبراني تحت إدارة محترف ألامن سيبراني Dark. ",
+        "image": "grops/img/dark.jpg",
+        "categories": [
+            "برمجة",
+            "تقنية",
+            "تعلم"
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/lego202x",
+        "date": "2026-09-09"
+    },
     
     {
         "name": "PYTHON&CODING",
@@ -93,20 +107,7 @@
         "link": "https://t.me/dmxnclp",
         "date": "2026-09-10"
     },
-
-    {
-        "name": "تعلم الأمن السيبراني",
-        "description": "مجتمع خاص بتعلم البرمجة والأمن السيبراني تحت إدارة محترف ألامن سيبراني Dark. ",
-        "image": "grops/img/dark.jpg",
-        "categories": [
-            "برمجة",
-            "تقنية",
-            "تعلم"
-        ],
-        "platform": "telegram",
-        "link": "https://t.me/lego202x",
-        "date": "2026-09-09"
-    },
+    
     
     {
         "name": "𝑹𝒊𝒈𝒉𝒕𝒆𝒙-𝒑𝒚𝒕𝒉𝒐𝒏 ?",
