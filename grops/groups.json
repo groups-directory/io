@@ -13,6 +13,19 @@
         "date": "2026-09-09"
     },
 
+    {
+        "name": "Cyber Security Arabic",
+        "description": "أهلاً بيك في المكان الصح! نورت مجتمعنا هنا هتتعلم أساسيات الأمن السيبراني و البرمجة بطريقة سهلة وبسيطة، ومعلومات مفيدة تزوّد مهاراتك خطوة بخطوة أدوات وتقنيات وكل ده مجانا",
+        "image": "grops/img/lego.jpg",
+        "categories": [
+            "برمجة",
+            "تقنية",
+            "تعليم"
+        ],
+        "platform": "telegram",
+        "link": "https://t.me/lego2028",
+        "date": "2026-09-10"
+    },
     
     {
         "name": "PYTHON&CODING",
@@ -42,16 +55,16 @@
     },
     
     {
-        "name": "الهكر القياده توفيق",
-        "description": "قناة توفيق الرسمية | نسخ واتساب، حظر وفك حظر، أرقام وهمية، ثغرات وتطبيقات متنوعة، زخرفة وتفعيل.",
+        "name": "THE MIX 🪐",
+        "description": "A little knowledge along our journey of learning.",
         "image": "grops/img/pro4.jpg",
         "categories": [
-            "برمجة",
-            "تقنية", 
-            "تعلم" 
+            "أخبار",
+            "تقنية"
+            
         ],
         "platform": "telegram",
-        "link": "https://t.me/tofik_hak0823480",
+        "link": "https://t.me/falaknew",
         "date": "2026-09-10"
     },
     {
