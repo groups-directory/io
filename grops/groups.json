@@ -46,7 +46,8 @@
         "description": "⚠️ لا يتم إضافة التجار إلا إذا كانوا موثوقين - قناة تمويل (قنوات او كروبات) ",
         "image": "grops/img/f.jpg",
         "categories": [
-            "تجارة"
+            "تجارة", 
+            "إعلان"
         ],
         "platform": "telegram",
         "link": "https://t.me/fasngon",
